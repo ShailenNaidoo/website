@@ -3,29 +3,29 @@
     <router-view/>
     <div id="footer">
       <div class="social-icons-wrapper">
-        <a href="https://www.facebook.com/officalVuejsIsrael/" target="_blank">
+        <a href="https://web.facebook.com/vuejsincpt/" target="_blank">
           <font-awesome-icon :icon="['fab', 'facebook-square']" class="social__icon"/>
         </a>
-        <a href="https://www.twitter.com/@VueJSIsrael" target="_blank">
+        <!-- <a href="https://www.twitter.com/@VueJSIsrael" target="_blank">
           <font-awesome-icon :icon="['fab', 'twitter-square']" class="social__icon"/>
-        </a>
-        <a href="https://www.meetup.com/vue-js/" target="_blank">
+        </a> -->
+        <a href="https://www.meetup.com/Codebridge/" target="_blank">
           <font-awesome-icon :icon="['fab', 'meetup']" class="social__icon"/>
         </a>
-        <a href="https://www.linkedin.com/company/vuejsisrael-meetups/" target="_blank">
+        <!-- <a href="https://www.linkedin.com/company/vuejsisrael-meetups/" target="_blank">
           <font-awesome-icon :icon="['fab', 'linkedin']" class="social__icon"/>
-        </a>
-        <a href="https://www.instagram.com/vuejsisrael/" target="_blank">
+        </a> -->
+        <!-- <a href="https://www.instagram.com/vuejsisrael/" target="_blank">
           <font-awesome-icon :icon="['fab', 'instagram']" class="social__icon"/>
-        </a>
-        <a href="https://www.youtube.com/channel/UC7Ne4vqQa7nldgA0o1fbqKg" target="_blank">
+        </a> -->
+        <!-- <a href="https://www.youtube.com/channel/UC7Ne4vqQa7nldgA0o1fbqKg" target="_blank">
           <font-awesome-icon :icon="['fab', 'youtube-square']" class="social__icon"/>
-        </a>
+        </a> -->
       </div>
       <!-- <router-link to="/">Home</router-link> | -->
     </div>
     <div class="credits">
-      Built with ♥ by <a href="http://mayashavin.com/" title="Maya Shavin">Maya</a> and <a href="http://www.dimshik.com/" title="Dima Vishnevetsky">Dima</a>
+      Thanks to <a a href="http://mayashavin.com/" title="Maya Shavin">Maya</a> and <a href="http://www.dimshik.com/" title="Dima Vishnevetsky">Dima</a> who built the original site for <a href="https://www.vuejsisrael.com">Vue.js Israel</a> ❤
     </div>
   </div>
 </template>
