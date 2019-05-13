@@ -11,7 +11,11 @@
       </g>
     </svg>
     <p class="text">
-      <span class="text-vue">Vue</span><span class="text-dot">.</span><span class="text-js">js</span><span class="text-israel">&nbsp;Israel</span>
+      <span class="text-vue">Vue</span>
+      <span class="text-dot">.</span>
+      <span class="text-js">js</span>
+      <span class="text-israel">&nbsp;Cape</span>
+      <span class="text-israel">&nbsp;Town</span>
     </p>
   </div>
 </template>
@@ -22,6 +26,7 @@ export default Vue.extend({
   name: 'Placeholder',
 });
 </script>
+
 <style>
 @import url(https://fonts.googleapis.com/css?family=Dosis);
 
@@ -46,7 +51,7 @@ body {
 
 .inner {
   --inner-original-color: #435466;
-  --inner-blue-color: #0038b8;
+  --inner-blue-color: #FFB81C;
 
   stroke-dasharray: 250;
   stroke-dashoffset: 250;
@@ -73,7 +78,7 @@ body {
 }
 
 .text-israel {
-  --text-width: 120px;
+  --text-width: 110px;
   overflow: hidden;
   width: 0;
   color: white;
