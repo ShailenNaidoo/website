@@ -78,7 +78,7 @@ body {
 }
 
 .text-israel {
-  --text-width: 110px;
+  --text-width: 104px;
   overflow: hidden;
   width: 0;
   color: white;

@@ -3,7 +3,7 @@
     <router-view/>
     <div id="footer">
       <div class="social-icons-wrapper">
-        <a href="https://web.facebook.com/vuejsincpt/" target="_blank">
+        <a href="https://facebook.com/vuejsincpt/" target="_blank">
           <font-awesome-icon :icon="['fab', 'facebook-square']" class="social__icon"/>
         </a>
         <!-- <a href="https://www.twitter.com/@VueJSIsrael" target="_blank">
@@ -12,9 +12,9 @@
         <a href="https://www.meetup.com/Codebridge/" target="_blank">
           <font-awesome-icon :icon="['fab', 'meetup']" class="social__icon"/>
         </a>
-        <!-- <a href="https://www.linkedin.com/company/vuejsisrael-meetups/" target="_blank">
-          <font-awesome-icon :icon="['fab', 'linkedin']" class="social__icon"/>
-        </a> -->
+        <a href="https://medium.com/vue-js-in-cape-town" target="_blank">
+          <font-awesome-icon :icon="['fab', 'medium']" class="social__icon"/>
+        </a>
         <!-- <a href="https://www.instagram.com/vuejsisrael/" target="_blank">
           <font-awesome-icon :icon="['fab', 'instagram']" class="social__icon"/>
         </a> -->
